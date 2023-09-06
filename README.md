@@ -15,7 +15,7 @@ Policy makers, advisors, people interested in migrating and various types of org
 
 ## ⟡ How can I check out this project?
 
-By clicking ➡️[here](http://107.21.7.155:8501/](https://analytic-hound-consulti-stream-finalisimo-kpi-last3home-jjyxd7.streamlit.app/).⬅️ you will be redirect to the official Analytic Hound website for this project. There you will be able to interact with our platform, learn about our work methodology, visit the step-by-step workflow  guide and get access to all the features that our platform offers.
+By clicking ➡️[here](https://analytic-hound-consulti-stream-finalisimo-kpi-last3home-jjyxd7.streamlit.app/).⬅️ you will be redirect to the official Analytic Hound website for this project. There you will be able to interact with our platform, learn about our work methodology, visit the step-by-step workflow  guide and get access to all the features that our platform offers.
 
 ## ⟡ Can I collaborate?
 
